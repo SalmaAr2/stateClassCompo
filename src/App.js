@@ -62,7 +62,7 @@ class App extends Component {
       </div>
       }
       
-      <p>Time since mount: {timeInterval}  seconds</p>
+      <p> Time since mount: {timeInterval} seconds</p>
       </Container>
       
       </>
